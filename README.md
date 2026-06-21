@@ -19,9 +19,9 @@
 ## 🌷 About Me
 
 - 🎓 Third-year **Biomedical Engineering** student at Rangsit University, class of 2025
-- 🔬 Affiliated with **SIP LAB** — working at the intersection of biomedical signals & intelligent systems
+- 🔬 Affiliated with **SIP LAB** : working at the intersection of biomedical signals & intelligent systems
 - 💻 Passionate about Signal Processing · Computer Vision · Deep Learning
-- 🌸 Currently learning **Japanese** — enjoying hiragana, katakana, and basic vocabulary
+- 🌸 Currently learning **Japanese** : enjoying hiragana, katakana, and basic vocabulary
 
 ---
 
