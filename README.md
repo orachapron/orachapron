@@ -7,7 +7,7 @@
 *おはようございます  Biomedical Engineer
 
 ![BME](https://img.shields.io/badge/BME_Year_3-RSU-f9a8d4?style=flat-square&labelColor=fce8f4&color=f472b6)
-![SIP LAB](https://img.shields.io/badge/SIP_LABf472b6?style=flat-square&labelColor=fce8f4&color=e879a0)
+![SIP LAB](https://img.shields.io/badge/SIP_LAB-f472b6?style=flat-square&labelColor=fce8f4&color=e879a0)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-f472b6?style=flat-square&labelColor=fce8f4&color=e879a0)
 ![Signal](https://img.shields.io/badge/Signal_Processing-f9a8d4?style=flat-square&labelColor=fce8f4&color=f472b6)
