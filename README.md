@@ -100,7 +100,7 @@ ResNet18 + ArcFace loss with Frangi filter preprocessing. Built on a 100-volunte
 
 🌸 &nbsp;🌷 &nbsp;🌸 &nbsp;🌷 &nbsp;🌸
 
-*BME · RSU · Thailand*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f9a8d4&height=80&section=footer" width="100%"/>
 
